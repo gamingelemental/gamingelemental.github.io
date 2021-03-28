@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gaming Elements</title>
+    <link>https://gamingelemental.github.io/posts/</link>
+    <description>Recent content in Posts on Gaming Elements</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Mar 2021 00:14:18 -0400</lastBuildDate><atom:link href="https://gamingelemental.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Title</title>
+      <link>https://gamingelemental.github.io/posts/mypost/</link>
+      <pubDate>Sun, 28 Mar 2021 00:14:18 -0400</pubDate>
+      
+      <guid>https://gamingelemental.github.io/posts/mypost/</guid>
+      <description>This is some content
+sudo pacman -Syu </description>
+    </item>
+    
+  </channel>
+</rss>
